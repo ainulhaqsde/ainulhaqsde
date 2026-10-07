@@ -114,20 +114,20 @@ const ainul = {
 
 <div align="center">
 
-<a href="https://github.com/ainulhaqsde/USMA-AI">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ainulhaqsde&repo=USMA-AI&theme=tokyonight&hide_border=true" alt="USMA AI"/>
+<a href="https://github.com/ainulhaqsde/USMA.Ai">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ainulhaqsde&repo=USMA.Ai&theme=tokyonight&hide_border=true" alt="USMA AI"/>
 </a>
 
-<a href="https://github.com/ainulhaqsde/Project-Loop">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ainulhaqsde&repo=Project-Loop&theme=tokyonight&hide_border=true" alt="Project Loop"/>
+<a href="https://github.com/ainulhaqsde/Project-LOOP">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ainulhaqsde&repo=Project-LOOP&theme=tokyonight&hide_border=true" alt="Project LOOP"/>
 </a>
 
-<a href="https://github.com/ainulhaqsde/Smart-Library">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ainulhaqsde&repo=Smart-Library&theme=tokyonight&hide_border=true" alt="Smart Library"/>
+<a href="https://github.com/ainulhaqsde/Smart-Library-Management-System">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ainulhaqsde&repo=Smart-Library-Management-System&theme=tokyonight&hide_border=true" alt="Smart Library Management System"/>
 </a>
 
-<a href="https://github.com/ainulhaqsde/Neon-Snake-Game-Simple-">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ainulhaqsde&repo=Neon-Snake-Game-Simple-&theme=tokyonight&hide_border=true" alt="Neon Snake Game"/>
+<a href="https://github.com/ainulhaqsde/Neon-Snake-Game">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ainulhaqsde&repo=Neon-Snake-Game&theme=tokyonight&hide_border=true" alt="Neon Snake Game"/>
 </a>
 
 </div>
