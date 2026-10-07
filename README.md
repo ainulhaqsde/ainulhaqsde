@@ -65,7 +65,6 @@ const ainul = {
 - 💻 Focused on **Software Engineering, Full-Stack Development & Backend Engineering**
 - 🤖 Exploring **Artificial Intelligence, Generative AI & Large Language Models (LLMs)**
 - 📊 Interested in **Data Analytics & data-driven applications**
-- 🔐 Strong foundation in **Cyber Security & Secure Software Development**
 - 🧠 Passionate about **DSA & Competitive Programming**
 - 🚀 Building **scalable, practical & AI-powered applications**
 - 🌱 Currently learning **System Design, Advanced JavaScript & modern AI technologies**
@@ -75,17 +74,7 @@ const ainul = {
 
 ## 🛠️ Tech Stack
 
-**Languages** &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" height="35" alt="Languages"/>
-
-**Frontend** &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" height="35" alt="Frontend"/>
-
-**Backend & Database** &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb" height="35" alt="Backend and Database"/>
-
-**Tools & Platforms** &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" height="35" alt="Tools and Platforms"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,tailwind,nodejs,express,flask,mysql,mongodb,git,github,vscode,vercel" alt="Tech Stack"/>
 
 ---
 
