@@ -31,44 +31,16 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const ainul = {
-    name: "Ainul Haq",
-    role: "Software Engineer",
-    education: "B.Tech CSE — Cyber Security",
-    college: "PSIT Kanpur",
-
-    interests: [
-        "Software Engineering",
-        "Full-Stack Development",
-        "Backend Development",
-        "Artificial Intelligence",
-        "Generative AI",
-        "Data Analytics"
-        "Cyber Security",
-        "Competitive Programming"
-    ],
-
-    currentlyLearning: [
-        "Generative AI",
-        "Large Language Models (LLMs)",
-        "Backend Engineering",
-        "System Design",
-        "Advanced JavaScript"
-],
-
-    philosophy: "Build. Learn. Improve. Repeat."
-};
-```
-
 - 🎓 **B.Tech CSE (Cyber Security)** graduate from **PSIT, Kanpur**
-- 💻 Focused on **Software Engineering, Full-Stack Development & Backend Engineering**
+- 💻 **Software Engineer** focused on **Full-Stack Development & Backend Engineering**
 - 🤖 Exploring **Artificial Intelligence, Generative AI & Large Language Models (LLMs)**
 - 📊 Interested in **Data Analytics & data-driven applications**
+- 🔐 Strong interest in **Cyber Security & Secure Software Development**
 - 🧠 Passionate about **DSA & Competitive Programming**
 - 🚀 Building **scalable, practical & AI-powered applications**
 - 🌱 Currently learning **System Design, Advanced JavaScript & modern AI technologies**
 - 🤝 Open to **Software Engineering, Full-Stack, Backend, AI & Open-Source opportunities**
+- 💡 **Philosophy:** *Build. Learn. Improve. Repeat.*
 
 ---
 
