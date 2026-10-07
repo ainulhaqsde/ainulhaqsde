@@ -64,14 +64,14 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### ⚙️ Backend & API
+### ⚙️ Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🤖 AI / ML & Generative AI
+### 🤖 AI / Generative AI
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
@@ -80,26 +80,17 @@
 ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-7B61FF?style=for-the-badge)
 ![Replicate API](https://img.shields.io/badge/Replicate_API-000000?style=for-the-badge)
 
-### 🧠 Core Computer Science
-
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-00599C?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object_Oriented_Programming-ED8B00?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge)
-![OS](https://img.shields.io/badge/Operating_Systems-0078D6?style=for-the-badge)
-![CN](https://img.shields.io/badge/Computer_Networks-008000?style=for-the-badge)
-![SE](https://img.shields.io/badge/Software_Engineering-6C63FF?style=for-the-badge)
-
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧰 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
