@@ -5,22 +5,25 @@
 ### Software Engineer • Full-Stack Developer • AI Engineer
 
 <p>
-  <em>Building scalable applications, exploring AI, and solving problems one commit at a time.</em>
+  <em>Building scalable software and intelligent solutions, one commit at a time.</em>
 </p>
 
-<a href="https://portfolio-ainuldev.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://linkedin.com/in/ainulhaqsde">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:ainulhaqsde@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<p>
+  <a href="https://portfolioainuldev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/ainulhaqsde">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ainulhaqsde@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ainulhaqsde&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ainulhaqsde&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ainulhaqsde?label=Followers&style=flat&logo=github" alt="GitHub Followers"/>
+</p>
 
 </div>
 
@@ -38,59 +41,51 @@ const ainul = {
     interests: [
         "Software Engineering",
         "Full-Stack Development",
+        "Backend Development",
         "Artificial Intelligence",
+        "Generative AI",
+        "Data Analytics"
         "Cyber Security",
         "Competitive Programming"
     ],
 
     currentlyLearning: [
         "Generative AI",
-        "LLMs",
-        "Advanced JavaScript",
+        "Large Language Models (LLMs)",
         "Backend Engineering",
-        "System Design"
-    ],
+        "System Design",
+        "Advanced JavaScript"
+],
 
     philosophy: "Build. Learn. Improve. Repeat."
 };
 ```
 
-- 🎓 Final-year **B.Tech CSE (Cyber Security)** student at **PSIT, Kanpur**
-- 💻 Focused on **Software Engineering, Full-Stack Development & Backend Development**
-- 🤖 Exploring **Generative AI, LLMs and AI-powered applications**
-- 🔐 Interested in **Cybersecurity and Secure Software Development**
-- 🧠 Strong interest in **DSA & Competitive Programming**
-- 🚀 I enjoy turning ideas into practical, real-world software
-- 🌱 Continuously learning and improving my development skills
-- 🤝 Open to **Software Engineering, Web Development, AI and Open-Source opportunities**
+- 🎓 **B.Tech CSE (Cyber Security)** graduate from **PSIT, Kanpur**
+- 💻 Focused on **Software Engineering, Full-Stack Development & Backend Engineering**
+- 🤖 Exploring **Artificial Intelligence, Generative AI & Large Language Models (LLMs)**
+- 📊 Interested in **Data Analytics & data-driven applications**
+- 🔐 Strong foundation in **Cyber Security & Secure Software Development**
+- 🧠 Passionate about **DSA & Competitive Programming**
+- 🚀 Building **scalable, practical & AI-powered applications**
+- 🌱 Currently learning **System Design, Advanced JavaScript & modern AI technologies**
+- 🤝 Open to **Software Engineering, Full-Stack, Backend, AI & Open-Source opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages** &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" height="35" alt="Languages"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" alt="Programming Languages"/>
-</p>
+**Frontend** &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" height="35" alt="Frontend"/>
 
-### Frontend
+**Backend & Database** &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb" height="35" alt="Backend and Database"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" alt="Frontend Technologies"/>
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" alt="Backend and Database"/>
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Development Tools"/>
-</p>
+**Tools & Platforms** &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" height="35" alt="Tools and Platforms"/>
 
 ---
 
