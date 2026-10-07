@@ -104,7 +104,7 @@ const ainul = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ainulhaqsde&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Ainul Haq Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ainulhaqsde&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Ainul Haq Contribution Activity Graph"/>
 
 </div>
 
