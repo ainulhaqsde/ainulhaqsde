@@ -114,26 +114,20 @@ const ainul = {
 
 <div align="center">
 
+<a href="https://github.com/ainulhaqsde/USMA-AI">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ainulhaqsde&repo=USMA-AI&theme=tokyonight&hide_border=true" alt="USMA AI"/>
+</a>
+
+<a href="https://github.com/ainulhaqsde/Project-Loop">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ainulhaqsde&repo=Project-Loop&theme=tokyonight&hide_border=true" alt="Project Loop"/>
+</a>
+
+<a href="https://github.com/ainulhaqsde/Smart-Library">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ainulhaqsde&repo=Smart-Library&theme=tokyonight&hide_border=true" alt="Smart Library"/>
+</a>
+
 <a href="https://github.com/ainulhaqsde/Neon-Snake-Game-Simple-">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ainulhaqsde&repo=Neon-Snake-Game-Simple-&theme=tokyonight&hide_border=true" alt="Neon Snake Game"/>
-</a>
-
-<a href="https://github.com/ainulhaqsde/Indian-Income-Tax-Calculator">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ainulhaqsde&repo=Indian-Income-Tax-Calculator&theme=tokyonight&hide_border=true" alt="Indian Income Tax Calculator"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/ainulhaqsde/Cpp-Program">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ainulhaqsde&repo=Cpp-Program&theme=tokyonight&hide_border=true" alt="C++ Programs"/>
-</a>
-
-<a href="https://github.com/ainulhaqsde/Neon-Snake-Game">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ainulhaqsde&repo=Neon-Snake-Game&theme=tokyonight&hide_border=true" alt="Neon Snake Game"/>
 </a>
 
 </div>
@@ -144,29 +138,13 @@ const ainul = {
 
 <div align="center">
 
-| Achievement | Progress |
+| 🏅 Achievement | 📈 Progress |
 |:---|:---:|
-| 🧩 LeetCode | **340+ Problems Solved** |
-| 💻 CodeChef, GFG & Others | **100+ Problems Solved** |
-| ⭐ HackerRank | **Algorithmic Thinking** |
-| 🚀 Development | **Multiple Projects Built** |
+| 🧠 DSA Problems | **400+ Solved** |
+| 💻 Platforms | **LeetCode • CodeChef • GeeksforGeeks** |
+| ⭐ HackerRank | **4-Star Badge** |
+| 🚀 Development | **Full-Stack & AI Projects** |
 | 🌐 Open Source | **Actively Exploring & Contributing** |
-
-</div>
-
----
-
-## 💻 Competitive Programming
-
-<div align="center">
-
-<a href="https://leetcode.com/u/ainulhaqsde/">
-  <img src="https://img.shields.io/badge/LeetCode-ainulhaqsde-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/ainulhaqsde">
-  <img src="https://img.shields.io/badge/HackerRank-ainulhaqsde-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
 
 </div>
 
@@ -179,6 +157,7 @@ const ainul = {
 🌐 Full-Stack Web Development
 ⚙️ Backend Engineering
 🧠 Data Structures & Algorithms
+📊 Data Analytics
 🔐 Secure Software Development
 🌍 Open Source Contributions
 ```
@@ -199,6 +178,10 @@ const ainul = {
 
 <a href="https://github.com/ainulhaqsde">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ainulhaqsde/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <a href="https://portfolio-ainuldev.vercel.app">
